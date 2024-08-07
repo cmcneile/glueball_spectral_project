@@ -9,6 +9,7 @@ The aim of this project is to investigate the spectral functions of glueball int
 
 * A recent lattice QCD calculation of glueballs. Paper: The glueball spectrum of SU(3) gauge theory in 3+1 dimension. https://arxiv.org/abs/2007.06422
 * Review talk on glueballs at the lattice 2004 conference. https://conference.ippp.dur.ac.uk/event/1265/contributions/7075/attachments/6044/8073/glueballs.pdf
+* https://inspirehep.net/literature/2657602, https://inspirehep.net/literature/2657602
 
 ##  References on the spectral function
 
@@ -24,3 +25,10 @@ https://conference.ippp.dur.ac.uk/event/1265/contributions/7077/attachments/5741
 
 ## Code
 
+* pyerrors, a python code to fit correlators, https://github.com/fjosw/pyerrors
+
+##  Glueball and experiments
+
+ 
+* See the recent annoucement from the BES III collaboration https://bigthink.com/starts-with-a-bang/new-particle-first-glueball/?fbclid=IwZXh0bgNhZW0CMTEAAR3OYIUl0R3EPq407sCNvWmZTOiQucAbUdDbbmqh-Rm88WIpALz7Uma_65s_aem_AQjWDCRdk5yQ_4Jm2dh3bAJyNEDchd-Av6KrVNd5_hE6Sk2C9VTz0mTJeel9W37nFWlhka-UMCXjIxAkZOBQhmAR
+* 
