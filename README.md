@@ -2,8 +2,12 @@
 
 ##  Introduction
 
-The aim of this project is to investigate the spectral functions of glueball interpolating operators. We are particularly interested in the change of the spectral functions between quenched and unquenched simulations.
+The aim of this project is to investigate the spectral functions of glueballs (https://en.wikipedia.org/wiki/Glueball) interpolating operators. We are particularly interested in the change of the spectral functions between quenched and unquenched simulations. This may give some insight into the decay of glueballs into light mesons.
 
+Basic project plan
+
+* Do some basic fits of some glueball fits using the variational method.
+* Next investigate some open source codes to compute the spectral function.
 
 ## Glueball 
 
