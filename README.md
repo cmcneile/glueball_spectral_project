@@ -2,6 +2,8 @@
 
 ##  Introduction
 
+The aim of this project is to investigate the spectral functions of glueball interpolating operators. We are particularly interested in the change of the spectral functions between quenched and unquenched simulations.
+
 
 ## Glueball 
 
@@ -12,7 +14,7 @@
 
 * On the extraction of spectral densities from lattice correlators, https://arxiv.org/pdf/1903.06476.pdf
 * An open source code for the calculation of smeared spectral densities from lattice correlators. https://github.com/LupoA/lsdensities?tab=readme-ov-file
-
+* The quenched glueball spectrum from smeared spectral densities, https://inspirehep.net/literature/2726559
 
 ## References on the inverse problem
 
