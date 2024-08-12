@@ -13,13 +13,14 @@ Basic project plan
 
 * A recent lattice QCD calculation of glueballs. Paper: The glueball spectrum of SU(3) gauge theory in 3+1 dimension. https://arxiv.org/abs/2007.06422
 * Review talk on glueballs at the lattice 2004 conference. https://conference.ippp.dur.ac.uk/event/1265/contributions/7075/attachments/6044/8073/glueballs.pdf
-* https://inspirehep.net/literature/2657602, https://inspirehep.net/literature/2657602
+* A review on Glueball hunting, https://inspirehep.net/literature/2657602
 
 ##  References on the spectral function
 
 * On the extraction of spectral densities from lattice correlators, https://arxiv.org/pdf/1903.06476.pdf
 * An open source code for the calculation of smeared spectral densities from lattice correlators. https://github.com/LupoA/lsdensities?tab=readme-ov-file
 * The quenched glueball spectrum from smeared spectral densities, https://inspirehep.net/literature/2726559
+* Kallen–Lehmann Spectral Representation of the Scalar SU(2) Glueball https://arxiv.org/abs/2103.11846
 
 ## References on the inverse problem
 
@@ -35,4 +36,10 @@ https://conference.ippp.dur.ac.uk/event/1265/contributions/7077/attachments/5741
 
  
 * See the recent annoucement from the BES III collaboration https://bigthink.com/starts-with-a-bang/new-particle-first-glueball/?fbclid=IwZXh0bgNhZW0CMTEAAR3OYIUl0R3EPq407sCNvWmZTOiQucAbUdDbbmqh-Rm88WIpALz7Uma_65s_aem_AQjWDCRdk5yQ_4Jm2dh3bAJyNEDchd-Av6KrVNd5_hE6Sk2C9VTz0mTJeel9W37nFWlhka-UMCXjIxAkZOBQhmAR
-* 
+*
+
+
+##  Background on lattice QCD
+
+* short video on fitting correlators in lattice QCD https://youtu.be/g81c9eiCUdc?si=_SlUiryiz1N7-OJ5
+* A lecture on the Generalized Eigenvalue Problem (GEVP) that is a key technique for the measurement of glueball correlators. https://itp.uni-frankfurt.de/~excitedqcd/tals10/WEDNESDAY/AFTERNOON/mendes_xQCD.pdf
